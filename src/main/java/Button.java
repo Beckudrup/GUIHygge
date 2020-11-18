@@ -1,7 +1,7 @@
 import processing.core.PApplet;
 
 public class Button {
-
+//Her giver vi et navn til vores anonyme klasse, så vi kan kalde den senere
 Action a;
 
     PApplet p;
@@ -34,7 +34,7 @@ Action a;
 
         }
     }
-
+//Her laver vi en metode, som man kan kalde i fx main, så knapperne kan lave noget forskelligt, da deres "execute" action er forskellige.
 void addAction(Action a){
 this.a = a;
 
