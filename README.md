@@ -8,6 +8,6 @@ For at bruge biblioteket skal du gøre følgende
 Hvis i intellij (som den originalt er lavet i) 
 Måden du laver en knap
 Button buttonTerning6 = ny knap (denne, 10, 10, 150, 50, "Kast en D6");
-Hvis du dog arbejder i intellij bliver du nødt til at importere Processings PAplet
+Hvis du dog arbejder i intellij bliver du nødt til at importere Processings PAplet for at biblioteket virker
 
 Hvis i Processing
