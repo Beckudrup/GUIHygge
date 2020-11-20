@@ -1,4 +1,4 @@
-# GUIHygge
+# Button/Dice library
 
 In the folder XXX can you find the source code and in the XXX folder you find the library.
 
