@@ -1,12 +1,13 @@
 # Button/Dice library
 
-In the folder XXX can you find the source code and in the XXX folder you find the library.
+I mappen XXX kan du finde koden, og i mappen XXX finder du biblioteket.
 
-In the folder XXX is the jar file, if you import this library to your project then you can make buttons that functions like dice. 
-To use the library you need to do the following
+I mappen XXX er jar-filen, hvis du importerer dette bibliotek til dit projekt, kan du lave knapper, der fungerer som terninger.
+For at bruge biblioteket skal du gøre følgende
 
-If in intellij
-Button buttonTerning6 = new Button(this,10, 10, 150, 50, "Throw a D6");
+Hvis i intellij (som den originalt er lavet i)
+Måden du laver en knap
+Button buttonTerning6 = ny knap (denne, 10, 10, 150, 50, "Kast en D6");
+Hvis du dog arbejder i intellij bliver du nødt til at importere Processings PAplet
 
-
-If in Processing
+Hvis i Processing
