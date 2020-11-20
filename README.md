@@ -2,8 +2,8 @@
 
 I mappen src/main/java kan du finde koden, og i mappen out/artifacts/GUIHygge_jar finder du biblioteket.<br>
 
-I mappen out/artifacts/GUIHygge_jar er jar-filen, hvis du importerer dette bibliotek til dit projekt, kan du lave knapper, der fungerer som terninger.<br>
-For at bruge biblioteket skal du gøre følgende<br><p>
+I mappen out/artifacts/GUIHygge_jar er jar-filen, hvis du importerer dette bibliotek til dit projekt, kan du lave knapper, der fungerer som terninger.<br><p>
+For at bruge biblioteket skal du gøre følgende<br>
 
 Hvis i intellij (som den originalt er lavet i) <br>
 Den måde du laver en knap skal du gøre følgene<br>
