@@ -1,6 +1,6 @@
 # Button/Dice library
 
-I mappen XXX kan du finde koden, og i mappen XXX finder du biblioteket.<br>
+I mappen src/main/java kan du finde koden, og i mappen XXX finder du biblioteket.<br>
 
 I mappen XXX er jar-filen, hvis du importerer dette bibliotek til dit projekt, kan du lave knapper, der fungerer som terninger.<br>
 For at bruge biblioteket skal du gøre følgende<br>
