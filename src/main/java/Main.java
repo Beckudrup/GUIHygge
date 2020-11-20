@@ -16,7 +16,7 @@ public class Main extends PApplet{
     public void settings(){
         size(1100, 300);
 
-    }
+    }// sej kode
     public void setup() {
 
 //Dette er en "Anonym klasse". Den er ret smart, da gør så man kan inddele kode til at virke på nogle knapper og ikke andre.
